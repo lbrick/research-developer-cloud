@@ -1,0 +1,2 @@
+Issue,Issue description,Release notes
+Unable to upload images via the Dashboard,When trying to upload an new OS image via the dashboard you get an error popup and the image is stuck in an uploading state,[20230918 Release notes](/release-notes/20230918-essential-building-blocks-v0.9)

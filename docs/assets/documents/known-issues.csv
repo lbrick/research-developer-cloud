@@ -1,0 +1,3 @@
+Issue,Issue description,Severity
+Unable to upload images via the Dashboard,When trying to upload an new OS image via the dashboard you get an error popup and the image is stuck in an uploading state,Medium
+Unable to detach volumes,"When trying to detach a volume from a running instance, when deleting an instance or resizing an instance the volume wont detach",High

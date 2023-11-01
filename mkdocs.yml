@@ -48,6 +48,7 @@ markdown_extensions:
 plugins:
   - glightbox
   - search
+  - table-reader
   - literate-nav:
       nav_file: summary.md
   - git-revision-date-localized:
